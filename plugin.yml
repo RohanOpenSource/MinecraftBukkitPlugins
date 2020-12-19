@@ -1,0 +1,51 @@
+name: LowAttackCooldown
+version: 1.0
+author: Rohan
+main: com.rohan.lowattackcooldown.LowAttackCooldown
+api-version: 1.14
+commands:
+  heal:
+    description: Heals players to full health.
+    usage: /<command>
+    aliases: healme
+  feed:
+    description: Feeds players to full hunger.
+    usage: /<command>
+    aliases: feedme
+  hitheal:
+    description: Toggles if players are healed when they hit other players.
+    usage: /<command>
+    aliases: hit
+  mlghorse:
+    description: MLG horse challenge.
+    usage: /<command>
+    aliases: mlgh
+  mlgslime:
+    description: MLG slime block challenge.
+    usage: /<command>
+    aliases: mlgs
+  mlgwater:
+    description: The classic MLG water bucket challenge.
+    usage: /<command>
+    aliases: mlgw
+  web:
+    description: Traps specefied player in web.
+    usage: /<command>
+  cage:
+    description: Traps specefied player in glass cage.
+    usage: /<command>
+  void:
+    description: Voids specefied player
+    usage: /<command>
+  guns:
+    desciption: guns
+    usage: /<command>
+    aliases: gunbow
+  customenchant:
+    desciption: custome enchantment
+    usage: /<command>
+    aliases: customattribute
+  pack:
+    description: toggle recoursepack
+    usage: /<command>
+    aliases: recoursepack
